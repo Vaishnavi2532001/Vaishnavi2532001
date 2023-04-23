@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/cf/94/7b/cf947b46283c10c47e3d5d945afb7053.gif)
+![logo](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
 ### Hi there 👋
 
 <!--
