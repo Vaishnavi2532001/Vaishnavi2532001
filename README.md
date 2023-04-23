@@ -1,4 +1,4 @@
-![logo](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
+![logo](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png)
 ### Hi there 👋
 
 <!--
