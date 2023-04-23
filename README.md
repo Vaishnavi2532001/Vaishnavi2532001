@@ -1,5 +1,5 @@
 ![logo](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png)
-### Hi there 👋
+
 
 <!--
 **Vaishnavi2532001/Vaishnavi2532001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)]
+
 <h1 align="center">Hi 👋, I'm Vaishnavi Vispute</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right"alt="Coding"width="400"src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966")
